@@ -1,4 +1,4 @@
-# abo_project
+# ABO PROJECT, theme no. 17
 Vessel wall to lumen ratio determination in adaptive optics retinal images
 
 Design and realize automatic algorithm for vessel wall segmentation. Determine the
