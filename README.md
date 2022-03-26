@@ -1,9 +1,9 @@
 # Project no.17: Vessel wall to lumen ratio determination in adaptive optics retinal images
 
 ## Team
--Adriana Špaková
--Klára Sakmárová
--Vasilii Fedorov
+- Adriána Špaková
+- Klára Sakmárová
+- Vasilii Fedorov
 
 ## Goal
 Design and realize automatic algorithm for vessel wall segmentation. Determine the
