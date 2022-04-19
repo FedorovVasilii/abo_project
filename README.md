@@ -13,6 +13,8 @@ results.
 ## Related papers
 [Lumen segmentation in magnetic resonance images](https://www.sciencedirect.com/science/article/pii/S0010482516302827)
 
+[Morphometric analysis of small arteries in the humanretina using adaptive optics imaging](https://www.researchgate.net/publication/259651521_Morphometric_analysis_of_small_arteries_in_the_human_retina_using_adaptive_optics_imaging_Relationship_with_blood_pressure_and_focal_vascular_changes)
+
 ## Plan
 1) Segmentation of vessel wall -> width of vessel wall
 2) Segmentation of lumen -> width of vessel lumen
