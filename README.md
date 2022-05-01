@@ -22,8 +22,3 @@ results.
 2) Segmentation of lumen -> width of vessel lumen
 3) Calculate WallLumenRatio <img src="https://render.githubusercontent.com/render/math?math={\color{red}\WLR = \frac{\text{vessel wall width}}{\text{vessel lumen width}}}">
 
-## Data
-![1](https://user-images.githubusercontent.com/62359460/160247578-4879389b-c6ad-4024-9988-e435eb631c47.png)
-![2](https://user-images.githubusercontent.com/62359460/160247579-81d062fc-979a-4de6-9cfe-855bbb4c389b.png)
-![3](https://user-images.githubusercontent.com/62359460/160247580-2275af89-70f0-41dc-9bbd-cfcd78a06b88.png)
-
