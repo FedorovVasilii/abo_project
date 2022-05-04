@@ -17,8 +17,15 @@ results.
 
 [Morphometric analysis of retinal arterioles in control and hypertensive population using adaptive optics imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6786142/)
 
-## Plan
-1) Segmentation of vessel wall -> width of vessel wall
-2) Segmentation of lumen -> width of vessel lumen
-3) Calculate WallLumenRatio <img src="https://render.githubusercontent.com/render/math?math={\color{red}\WLR = \frac{\text{vessel wall width}}{\text{vessel lumen width}}}">
+## Proposed method
+1) Preprocessing
+2) Vessel center curve detection
+3) Border detection + WLR calculation
+
+![3333](https://user-images.githubusercontent.com/62359460/166816821-7fca4046-c493-4d89-96b8-62b5b6db5419.png)
+![2_vessel_detection](https://user-images.githubusercontent.com/62359460/166816819-8e986929-067a-48e4-950e-2954ef4a7098.png)
+![3_wlr_calc](https://user-images.githubusercontent.com/62359460/166816987-aa0ced56-463e-4c05-beb9-5c3a2beb3ff9.png)
+
+
+
 
