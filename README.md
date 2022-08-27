@@ -61,13 +61,17 @@ Steps 1) and 2) on different images.<br> Left: input image <br> Right: vessel ce
 
 ![red](https://user-images.githubusercontent.com/62359460/187036748-a3e25e8a-0419-46c8-9972-80e351ea2751.png)
 
-6) Detect and lumen (dark blue) and wall (light blue) borders
+6) Detect and lumen (dark blue) and wall (light blue) borders based on scanning line providing intensity profile.
 
 ![asdasds](https://user-images.githubusercontent.com/62359460/187036758-ba2b6215-0565-414e-b622-1e4b6a8e1b01.png)
 
-7) Final result for input image with heatmap indicating changing value of WLR across vessel
+7) Final result for input image with heatmap showing changing value of WLR across vessel
 
 ![7](https://user-images.githubusercontent.com/62359460/187036211-b34cc108-5f2f-497e-8cdf-ddcab25b2af9.png)
+
+8) Closer look
+
+![hhhh](https://user-images.githubusercontent.com/62359460/187037106-63a86c31-0727-4cbd-b9a2-bf698b2a0bf1.png)
 
 
 
